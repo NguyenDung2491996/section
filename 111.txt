@@ -1,0 +1,183 @@
+API --> ông cứ hiểu nó là nơi mà 
+
+
+1. DATABASE
+ 
+2. API
+
+3. CLIENT
+
+---> trước đây thì backend sẽ phải đổ dữ liệu ra --> foreach lặp dữ liệu từ csdl ra đúng k trả về cho view ấy
+
+
+---> bây h client <front end dev> sẽ làm việc đó ---> công nghệ hiện tại là vậy 
+
+
+---> api là nơi chứa các kết quả CRUD của backend với DATABASE 
+
+---> ví dụ khi ông truy cập https://abc.com/api/post --> nó sẽ trả về 1 mảng JSON -> lúc nãy ông làm example với jquery
+ông đã sử dụng response về json (thì json nó là dạng dữ liệu linh hoạt ngôn ngữ lập trình nào cũng chuyển đổi và sử dụng
+
+dc) -> thì api sẽ chứa ví dụ 
+ 
+-> truy cập https://abc.com/api/post  -> [{"id" : 1, "title": "abcd"}] --> bây h frontend dev sẽ chuyển đổi json này
+
+thành object và đổ dữ liệu ra thôi ---> với js thuần hay jquery cũng làm dc nhưng rất mệt thì h đã có framework react or 
+vue js angular ... để làm việc đó nó rất mạnh
+
+đoạn code bên là ông đang thêm or sửa dữ liệu đấy k load lại trang nó là ajax có 1 đoaạn như thế thôi tiện hơn nhiều 
+
+khỏe hơn nhiều mà nó còn làm dc SPA -> single page app --> tất cả load về 1 trang khi truy cập vào trang khác
+
+ví dụ ông có trang chủ trang chi tiết ... --> nó chỉ thay đổi dữ liệu chứ nó k phải chuyển hướng trang
+
+---> gắng đi ông thì nó là vậy ---> làm cái ví dụ đó đi ok
+
+---> thắc mắc j pm tôi --> h k dùng jquery nữa đâu
+
+----> tôi với ông sẽ dùng laravel để viết api nó dễ thôi và react để xử lý tương tác người dùng viết ajax ... 
+
+ok -- tuần sau start nhỉ còn bao nhiêu ngày
+11 tuayflaf 10 tuần dư sức --> làm tầm 8 tuần xong --> tôi k làm liên tục đc ---> / 2 tuần làm báo cáo
+
+tôi cũng báo cáo cái này mà 
+
+--> 9h chủ nhật tuần sau --> thì tôi với ông sẽ thảo luận lại csdl + các chức năng cần xử lý  + ok vậy thôi
+
+t phải lên báo cáo iếc cơ 
+t6 tuần sau nữa là phải lên r --> ak thứ 6 lên r thì ông lên giao cái project này như này
+
+--> xong nói em sẽ dựng lại bằng công nghệ mới hơn và xử lý lại 1 số chức năng
+
+--> vậy nha ông tôi cũng lên báo cáo mà k sợ :))
+thầy t khas11111111111111111 ông cứ cầm cái cũ lên báo cáo 1 số chức năng thôi ngại j 
+nói với thầy em sẽ dựng lại nếu ông ấy kêu 
+mà máy t bị dính phím à 
+thỉnh thoảng còn tự hiện thanh tìm kiếm cơ 
+kiểu như thế
+ukm 
+
+vậy nha k sao đâu / tôi h làm c# netcore khó hơn laravel
+
+mệt vãi
+sao bây h ô mới làm deetjtoi chua ra truong
+
+năm 5
+tg ô 96 mà tôi 97 
+
+ok ông h đang làm việc khác k phải lập trình ak
+toi có làm j đâu 
+sao k đi thực tập 
+rốt thế ai tuyển 
+
+ông làm dc cái này là ok cũng hiểu r 
+
+vậy train thêm ra trường xin đi thực tập 
+
+để xem nào
+
+
+ông thích làm j 
+
+front end hay back end
+thích backend hơn 
+
+giỏi sql k
+
+
+các câu truy vấn biết qua qua thôi
+
+lập trình căn bản 
+
+làm các bài toán lập trình căn bản ok chứ
+
+xử lý mảng 
+ ..
+cái đấy thì cũng làm r ok
+1
+
+---- ông ở đâu
+bắc ninh
+
+sao k lên Hà Nội
+cách ly 1nakga ôfng yhọc ở Hà Nội đúng k
+t học bk 
+backs khoa ak ukm vãi đạn
+
+k phải ai cũng giỏi đâu đầy đứa cũng ngu lắm đó là k học
+
+vào dc bk là bá đạo rồi
+
+---t--------------------------------------
+còn mấy tháng ra trườn
+14 tháng 
+s1ao ông k đi học trung tâm 
+có1 đi r 
+như1ng chỉ dạy cơ bản thôi 
+ok 1
+1
+
+1--------
+1
+41 tháng là quá đủ 
+1
+
+1--------
+11
+1
+-----------------------
+bách khoa thì ông thầy căng là đúng rồi 
+
+ông xem dc tài liệu tiếng Anh k
+k biết thì gg dịch 
+
+tôi đang nghĩ cái lộ trình học cho ông
+
+để tôi hỏi ông bạn ngoài Hà Nội xem công ty ông ấy có nhận đào tạo k đợi ti
+
+đang nhắn 2 người chưa thấy rep
+ra trường t mới tính đi tt 
+lo cái đồ án cái 
+
+ukm bác Bach Khoa thi căng là đúng r
+
+h bác rảnh trong thời gian này vừa làm đồ án vừa cày 
+
+nếu backend thì 
+
+cày lại SQL :
+
+1. dựng DB
+2. quan hệ 1 - 1 
+           1 - n 
+           n - n
+
+3. các câu truy vấn
+- truy vấn đơn giản
+- truy vấn lồng
+- join 
+- group by
+- order by
+
+cày php
+- cơ bản
+học 3 ngày (w3cchool)  --> basic xem cú pháp -> thao tác với mảng  --> biến global $_get $_post $_session
+
+--> với file thì k cần (có gì thì google thôi) --> tất cả cũng chỉ là thêm sửa xóa thôi
+
+---> xong phần này bác làm 1 example crud với php thuần -- ok trên này rồi thì thôi xem lại lướt qua
+
+
+
+- php oop (như những thằng khác thôi) 
+
+- đọc lý thuyết về mô hình mvc 
+
+- tìm hiểu Rest API 
+
+- thế này đã bye bác ok
+
+
+
+
+
